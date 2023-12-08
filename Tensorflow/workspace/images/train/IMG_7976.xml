@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>IMG_7976.jpg</filename>
+	<path>/home/faizan/Desktop/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/IMG_7976.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>1020</ymin>
+			<xmax>2544</xmax>
+			<ymax>3178</ymax>
+		</bndbox>
+	</object>
+</annotation>
